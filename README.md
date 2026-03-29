@@ -4,6 +4,7 @@
 
 This project is implementing the ELT processes using the medallion architecture pipeline in PostgreSQL.
 The dataset is representing customer purchasing behaviour and is processed through the bronze, silver and gold layers.
+Dataset was found at Kaggle: https://www.kaggle.com/datasets/hanaksoy/customer-purchasing-behaviors
 
 ## Problem Statement:
 
